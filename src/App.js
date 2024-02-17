@@ -604,10 +604,10 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/rice.png" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Rice Seeds</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
                             <span class="price">$18.00</span>
                             <div class="d-flex align-items-center justify-content-between">
