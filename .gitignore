@@ -3,6 +3,9 @@
 # testing
 /coverage
 
+#dependecies
+/node_modules
+
 # production
 /build
 
