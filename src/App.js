@@ -609,7 +609,7 @@ class Home extends React.Component {
                             </figure>
                             <h3>Rice Seeds</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.150</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
