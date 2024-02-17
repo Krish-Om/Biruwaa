@@ -394,7 +394,7 @@ class Home extends React.Component {
                   <div class="swiper-wrapper">
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Seed</h3>
+                      <h3 class="category-title">Plant</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
