@@ -394,7 +394,7 @@ class Home extends React.Component {
                   <div class="swiper-wrapper">
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Fruits & Veges</h3>
+                      <h3 class="category-title">Seed</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
@@ -402,7 +402,7 @@ class Home extends React.Component {
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Fruits & Veges</h3>
+                      <h3 class="category-title">Seed</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
@@ -418,7 +418,7 @@ class Home extends React.Component {
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Fruits & Veges</h3>
+                      <h3 class="category-title">Seed</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
@@ -426,7 +426,7 @@ class Home extends React.Component {
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Fruits & Veges</h3>
+                      <h3 class="category-title">Seed</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
@@ -588,8 +588,8 @@ class Home extends React.Component {
                     <nav>
                       <div class="nav nav-tabs" id="nav-tab" role="tablist">
                         <a href="#" class="nav-link text-uppercase fs-6 active" id="nav-all-tab" data-bs-toggle="tab" data-bs-target="#nav-all">All</a>
-                        <a href="#" class="nav-link text-uppercase fs-6" id="nav-fruits-tab" data-bs-toggle="tab" data-bs-target="#nav-fruits">Fruits & Veges</a>
-                        <a href="#" class="nav-link text-uppercase fs-6" id="nav-juices-tab" data-bs-toggle="tab" data-bs-target="#nav-juices">Juices</a>
+                        <a href="#" class="nav-link text-uppercase fs-6" id="nav-fruits-tab" data-bs-toggle="tab" data-bs-target="#nav-fruits">Seeds</a>
+                        <a href="#" class="nav-link text-uppercase fs-6" id="nav-juices-tab" data-bs-toggle="tab" data-bs-target="#nav-juices">Plants</a>
                       </div>
                     </nav>
                   </div>
