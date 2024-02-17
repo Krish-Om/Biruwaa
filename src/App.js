@@ -291,13 +291,13 @@ class Home extends React.Component {
                         <div class="swiper-slide">
                           <div class="row banner-content p-5">
                             <div class="content-wrapper col-md-7">
-                              <div class="categories my-3">100% natural</div>
-                              <h3 class="display-4">Fresh Smoothie & Summer Juice</h3>
-                              <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dignissim massa diam elementum.</p>
+                              <div class="categories my-3">100% Natural</div>
+                              <h3 class="display-4">Natural</h3>
+                              <p>Fresh, healthy rice seeds. Available!!!</p>
                               <a href="#" class="btn btn-outline-dark btn-lg text-uppercase fs-6 rounded-1 px-4 py-3 mt-3">Shop Now</a>
                             </div>
                             <div class="img-wrapper col-md-5">
-                              <img src="assets/images/product-thumb-1.png" alt="Product Thumbnail" class="img-fluid" />
+                              <img src="assets/images/rice.png" alt="Product Thumbnail" class="img-fluid" />
                             </div>
                           </div>
                         </div>
