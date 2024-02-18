@@ -635,12 +635,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-biscuits.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/wheat.webp" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Wheat seeds </h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.100</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -665,12 +665,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-cucumber.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/cucumber-seeds-in-my-hand.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Cucumber Seeds</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.300</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -695,12 +695,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-milk.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/spinach-seeds-in-my-hand.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Spinach Seeds</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.200</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
