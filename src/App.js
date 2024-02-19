@@ -695,7 +695,7 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/spinach-seeds-in-my-hand.jpg" alt="Product Thumbnail" class="tab-image" />
+                                <img  src="assets/images/spinach-seeds-in-my-hand.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
                             <h3>Spinach Seeds</h3>
@@ -2227,7 +2227,7 @@ class Home extends React.Component {
           </div>
         </section>
 
-        <section class="py-5 my-5">
+        {/* <section class="py-5 my-5">
           <div class="container-fluid">
 
             <div class="bg-warning py-5 rounded-5" style={{background: "url('assets/images/bg-pattern-2.png') no-repeat"}}>
@@ -2249,7 +2249,7 @@ class Home extends React.Component {
             </div>
             
           </div>
-        </section>
+        </section> */}
 
         <section class="py-5">
           <div class="container-fluid">
