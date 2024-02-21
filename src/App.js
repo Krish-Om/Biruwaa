@@ -129,7 +129,7 @@ class Home extends React.Component {
               <div class="col-sm-4 col-lg-3 text-center text-sm-start">
                 <div class="main-logo">
                   <a href="#">
-                    <img src="assets/images/biruwaa.png" alt="logo" class="img-fluid" />
+                    <img src="assets/images/Logo.png" alt="logo" class="img-fluid" />
                   </a>
                 </div>
               </div>
@@ -2363,7 +2363,7 @@ class Home extends React.Component {
 
               <div class="col-lg-3 col-md-6 col-sm-6">
                 <div class="footer-menu">
-                  <img src="assets/images/logo.png" alt="logo" />
+                  <img src="assets/images/Logo.png" alt="logo" />
                   <div class="social-links mt-5">
                     <ul class="d-flex list-unstyled gap-2">
                       <li>
