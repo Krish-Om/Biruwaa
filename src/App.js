@@ -146,7 +146,7 @@ class Home extends React.Component {
                   </div>
                   <div class="col-11 col-md-7">
                     <form id="search-form" class="text-center" action="#" method="post">
-                      <input type="text" class="form-control border-0 bg-transparent" placeholder="Search for more than 20,000 products" />
+                      <input type="text" class="form-control border-0 bg-transparent" placeholder="Search for more than 20,000 variety" />
                     </form>
                   </div>
                   <div class="col-1">
@@ -158,7 +158,7 @@ class Home extends React.Component {
               <div class="col-sm-8 col-lg-4 d-flex justify-content-end gap-5 align-items-center mt-4 mt-sm-0 justify-content-center justify-content-sm-end">
                 <div class="support-box text-end d-none d-xl-block">
                   <span class="fs-6 text-muted">For Support?</span>
-                  <h5 class="mb-0">+980-34984089</h5>
+                  <h5 class="mb-0">+977-9876543210</h5>
                 </div>
 
                 <ul class="d-flex justify-content-end list-unstyled m-0">
@@ -221,13 +221,10 @@ class Home extends React.Component {
                   
                       <ul class="navbar-nav justify-content-end menu-list list-unstyled d-flex gap-md-3 mb-0">
                         <li class="nav-item active">
-                          <a href="#women" class="nav-link">Women</a>
+                          <a href="#gardeners" class="nav-link">Gardeners</a>
                         </li>
                         <li class="nav-item dropdown">
-                          <a href="#men" class="nav-link">Men</a>
-                        </li>
-                        <li class="nav-item">
-                          <a href="#kids" class="nav-link">Kids</a>
+                          <a href="#farmers" class="nav-link">Farmers</a>
                         </li>
                         <li class="nav-item">
                           <a href="#accessories" class="nav-link">Accessories</a>
@@ -261,7 +258,7 @@ class Home extends React.Component {
                       </ul>
                     
                     </div>
-
+                    
                   </div>
 
                 </nav>
@@ -396,51 +393,27 @@ class Home extends React.Component {
                   <div class="swiper-wrapper">
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Plant</h3>
+                      <h3 class="category-title">Fruits</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Breads & Sweets</h3>
+                      <h3 class="category-title">Vegetables</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Seed</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Beverages</h3>
+                      <h3 class="category-title">Flowers</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-animal-products-drumsticks.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Meat Products</h3>
+                      <h3 class="category-title">Tools</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-bread-herb-flour.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Breads</h3>
+                      <h3 class="category-title">Trees</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
                       <img src="assets/images/icon-vegetables-broccoli.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Plant</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-bread-baguette.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Breads & Sweets</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Seed</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-wine-glass-bottle.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Beverages</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-animal-products-drumsticks.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Meat Products</h3>
-                    </a>
-                    <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-bread-herb-flour.png" alt="Category Thumbnail" />
-                      <h3 class="category-title">Breads</h3>
+                      <h3 class="category-title">Shurbs</h3>
                     </a>
                     
                   </div>
