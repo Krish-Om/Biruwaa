@@ -637,7 +637,7 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/wheat.webp" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/wheat.png" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
                             <h3>Wheat seeds </h3>
@@ -727,12 +727,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/radish_sed.JPG" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Radish/Mula seed -200g</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.500</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -787,12 +787,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-cucumber.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/corn_bean.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
-                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <h3>Hybrid Maize Seeds -1Kg</h3>
+                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.3</span>
+                            <span class="price">Rs.800</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -847,12 +847,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/pumpkin_sed.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
-                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <h3>Pumpkin Seeds -1Kg</h3>
+                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.8</span>
+                            <span class="price">Rs.1,380</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
