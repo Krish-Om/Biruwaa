@@ -187,7 +187,7 @@ class Home extends React.Component {
                 <div class="cart text-end d-none d-lg-block dropdown">
                   <button class="border-0 bg-transparent d-flex flex-column gap-2 lh-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart" aria-controls="offcanvasCart">
                     <span class="fs-6 text-muted dropdown-toggle">Your Cart</span>
-                    <span class="cart-total fs-5 fw-bold">$1290.00</span>
+                    <span class="cart-total fs-5 fw-bold">Rs.1500.00</span>
                   </button>
                 </div>
               </div>
@@ -266,9 +266,9 @@ class Home extends React.Component {
 
                 </nav>
                 <div class="d-none d-lg-block">
-                  <a href="https://therichpost.com" target="_blank" class="nav-link btn-coupon-code">
+                  <a href="https://github.com/Krish-Om/Biruwaa" target="_blank" class="nav-link btn-coupon-code">
                     <img src="assets/images/gift.svg" alt="gift icon" />
-                    <strong class="ms-2 text-dark">Get PRO Version</strong>
+                    <strong class="ms-2 text-dark"> JOIN OUR PARTNER PROGRAM</strong>
                   </a>
                 </div>
               </div>
