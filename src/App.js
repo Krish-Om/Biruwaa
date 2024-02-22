@@ -129,7 +129,7 @@ class Home extends React.Component {
               <div class="col-sm-4 col-lg-3 text-center text-sm-start">
                 <div class="main-logo">
                   <a href="#">
-                    <img src="assets/images/logo.png" alt="logo" class="img-fluid" />
+                    <img src="assets/images/logo_2.png" alt="logo" class="img-fluid" />
                   </a>
                 </div>
               </div>
@@ -298,7 +298,8 @@ class Home extends React.Component {
                               <h3 class="display-4">Natural</h3>
                               <p>Fresh, healthy rice seeds. Available!!!</p>
                               <a href="#" class="btn btn-outline-dark btn-lg text-uppercase fs-6 rounded-1 px-4 py-3 mt-3">Shop Now</a>
-                             
+                              <div class="content-wrapper col-md-7"><img src="assets/images/rice_3.png" alt="Product Thumbnail" class="img-fluid" />
+                              </div>
                             </div>
                           </div>
                         </div>
