@@ -213,7 +213,7 @@ class Home extends React.Component {
                     <div class="offcanvas-body">
                   
                       <select class="filter-categories border-0 mb-0 me-5">
-                        <option>Shop by Departments</option>
+                        <option>Shop by</option>
                         <option>Groceries</option>
                         <option>Drinks</option>
                         <option>Chocolates</option>
@@ -400,7 +400,7 @@ class Home extends React.Component {
                       <h3 class="category-title">Vegetables</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-soft-drinks-bottle.png" alt="Category Thumbnail" />
+                      <img src="assets/images/flower-icon.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Flowers</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
