@@ -392,27 +392,27 @@ class Home extends React.Component {
                 <div class="category-carousel swiper">
                   <div class="swiper-wrapper">
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-fruits.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-fruits.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Fruits</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-vegetables.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-vegetables.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Vegetables</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-flower.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-flower.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Flowers</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-tools.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-tools.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Tools</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-trees.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-trees.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Trees</h3>
                     </a>
                     <a href="#" class="nav-link category-item swiper-slide">
-                      <img src="assets/images/icon-shrubs.png" alt="Category Thumbnail" class="img-fluid" />
+                      <img src="assets/icons/icon-shrubs.png" alt="Category Thumbnail" class="img-fluid" />
                       <h3 class="category-title">Shurbs</h3>
                     </a>
                     
