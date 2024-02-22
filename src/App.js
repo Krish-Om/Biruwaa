@@ -637,7 +637,7 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/wheat.webp" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/wheat.png" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
                             <h3>Wheat seeds </h3>
@@ -727,12 +727,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/radish_sed.JPG" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
+                            <h3>Radish/Mula seed -200g</h3>
                             <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <span class="price">Rs.500</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -787,12 +787,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-cucumber.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/corn_bean.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
-                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <h3>Hybrid Maize Seeds -1Kg</h3>
+                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.3</span>
+                            <span class="price">Rs.800</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -847,12 +847,12 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/pumpkin_sed.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
-                            <h3>Sunstar Fresh Melon Juice</h3>
-                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                            <span class="price">$18.00</span>
+                            <h3>Pumpkin Seeds -1Kg</h3>
+                            <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.8</span>
+                            <span class="price">Rs.1,380</span>
                             <div class="d-flex align-items-center justify-content-between">
                               <div class="input-group product-qty">
                                   <span class="input-group-btn">
@@ -2167,7 +2167,7 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                 <article class="post-item card border-0 shadow-sm p-3">
                   <div class="image-holder zoom-effect">
                     <a href="#">
-                      <img src="assets/images/post-thumb-1.jpg" alt="post" class="card-img-top" />
+                      <img src="assets/images/blog_1.jpg" alt="post" class="card-img-top" />
                     </a>
                   </div>
                   <div class="card-body">
@@ -2177,9 +2177,9 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                     </div>
                     <div class="post-header">
                       <h3 class="post-title">
-                        <a href="#" class="text-decoration-none">Top 10 casual look ideas to dress up your kids</a>
+                        <a href="#" class="text-decoration-none">Seed Starting 101: Essential Tips for Beginner Gardeners</a>
                       </h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...</p>
+                      <p>Remember the thrill of watching a bean sprout in a jar? Reconnect with that childhood wonder by starting your own seeds! This step-by-step guide empowers gardening newbies to witness the miracle of life and enjoy the delicious rewards of homegrown goodness.</p>
                     </div>
                   </div>
                 </article>
@@ -2188,7 +2188,7 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                 <article class="post-item card border-0 shadow-sm p-3">
                   <div class="image-holder zoom-effect">
                     <a href="#">
-                      <img src="assets/images/post-thumb-2.jpg" alt="post" class="card-img-top" />
+                      <img src="assets/images/blog_2.jpg" alt="post" class="card-img-top" />
                     </a>
                   </div>
                   <div class="card-body">
@@ -2198,9 +2198,9 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                     </div>
                     <div class="post-header">
                       <h3 class="post-title">
-                        <a href="#" class="text-decoration-none">Latest trends of wearing street wears supremely</a>
+                        <a href="#" class="text-decoration-none">Top 10 Seeds to Plant in Your Garden This Season</a>
                       </h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...</p>
+                      <p>Are you itching to get your hands dirty and cultivate a thriving garden? This guide reveals the top 10 seeds to plant this season, catering to your taste buds, climate, and even gardening experience.</p>
                     </div>
                   </div>
                 </article>
@@ -2209,7 +2209,7 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                 <article class="post-item card border-0 shadow-sm p-3">
                   <div class="image-holder zoom-effect">
                     <a href="#">
-                      <img src="assets/images/post-thumb-3.jpg" alt="post" class="card-img-top"/>
+                      <img src="assets/images/blog.jpg" alt="post" class="card-img-top"/>
                     </a>
                   </div>
                   <div class="card-body">
@@ -2219,9 +2219,9 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                     </div>
                     <div class="post-header">
                       <h3 class="post-title">
-                        <a href="#" class="text-decoration-none">10 Different Types of comfortable clothes ideas for women</a>
+                        <a href="#" class="text-decoration-none">Planting for the Future: Sustainable Gardening Practices for Everyone</a>
                       </h3>
-                      <p>Lorem ipsum dolor sit amet, consectetur adipi elit. Aliquet eleifend viverra enim tincidunt donec quam. A in arcu, hendrerit neque dolor morbi...</p>
+                      <p>This guide unlocks simple, impactful ways to cultivate a flourishing garden in harmony with the Earth. Discover practices that benefit you, your food, and future generations, proving sustainable gardening isn't just trendy, it's essential. Join the movement, plant the seeds of change, and watch your garden blossom!</p>
                     </div>
                   </div>
                 </article>
