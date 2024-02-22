@@ -1361,12 +1361,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoes.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/peace-lilly.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Peace Lilly</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.160.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1390,12 +1390,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoketchup.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/rosemary.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Rosemary</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.240.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1419,12 +1419,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/jasmine.jpg" alt="Product jasmine.jpg" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Jasmine</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.150.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1448,12 +1448,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/lettuce.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Lettuce</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.150.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1475,40 +1475,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoes.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/coffee.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Coffee</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
-                      <div class="d-flex align-items-center justify-content-between">
-                        <div class="input-group product-qty">
-                            <span class="input-group-btn">
-                                <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus">
-                                  <svg width="16" height="16"><use xlinkHref="#minus"></use></svg>
-                                </button>
-                            </span>
-                            <input type="text" name="quantity" class="form-control input-number quantity" value="1" />
-                            <span class="input-group-btn">
-                                <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus">
-                                    <svg width="16" height="16"><use xlinkHref="#plus"></use></svg>
-                                </button>
-                            </span>
-                        </div>
-                        <a href="#" class="nav-link">Add to Cart <svg width="18" height="18"><use xlinkHref="#cart"></use></svg></a>
-                      </div>
-                    </div>
-
-                    <div class="product-item swiper-slide">
-                      <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
-                      <figure>
-                        <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoketchup.png" alt="Product Thumbnail" class="tab-image" />
-                        </a>
-                      </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.290.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1531,12 +1503,12 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/mago.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Mango</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.180.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1559,12 +1531,40 @@ class Home extends React.Component {
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/strawberry.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Strawberry</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.120.00</span>
+                      <div class="d-flex align-items-center justify-content-between">
+                        <div class="input-group product-qty">
+                            <span class="input-group-btn">
+                                <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus">
+                                  <svg width="16" height="16"><use xlinkHref="#minus"></use></svg>
+                                </button>
+                            </span>
+                            <input type="text" name="quantity" class="form-control input-number quantity" value="1" />
+                            <span class="input-group-btn">
+                                <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus">
+                                    <svg width="16" height="16"><use xlinkHref="#plus"></use></svg>
+                                </button>
+                            </span>
+                        </div>
+                        <a href="#" class="nav-link">Add to Cart <svg width="18" height="18"><use xlinkHref="#cart"></use></svg></a>
+                      </div>
+                    </div>
+
+                    <div class="product-item swiper-slide">
+                      <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
+                      <figure>
+                        <a href="#" title="Product Title">
+                          <img src="assets/images/Garlic.jpg" alt="Product Thumbnail" class="tab-image" />
+                        </a>
+                      </figure>
+                      <h3>Garlic</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
+                      <span class="price">Rs.170.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1602,7 +1602,8 @@ class Home extends React.Component {
                     <div class="section-header">
                       <h2 class="section-title display-4">Get <span class="text-primary">25% Discount</span> on your first purchase</h2>
                     </div>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Dictumst amet, metus, sit massa posuere maecenas. At tellus ut nunc amet vel egestas.</p>
+                    <p>
+Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, established plants, curated bundles - ALL discounted! Limited time only. Grow bigger, brighter blooms & bountiful harvests. Shop now!  #GrowWithUs</p>
                   </div>
                   <div class="col-md-6 p-5">
                     <form>
