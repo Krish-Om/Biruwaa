@@ -1167,7 +1167,7 @@ class Home extends React.Component {
                             <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                             <figure>
                               <a href="#" title="Product Title">
-                                <img src="assets/images/thumb-tomatoes.png" alt="Product Thumbnail" class="tab-image" />
+                                <img src="assets/images/thumb-tomatoes.jpg" alt="Product Thumbnail" class="tab-image" />
                               </a>
                             </figure>
                             <h3>Sunstar Fresh Melon Juice</h3>
@@ -1666,12 +1666,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoes.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/pumpkin_sed.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Pumpkin Seeds -1Kg</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.8</span>
+                      <span class="price">Rs.1,380.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1694,12 +1694,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoketchup.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/coffee.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Coffee</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.9</span>
+                      <span class="price">Rs.290.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1722,12 +1722,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/mago.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Mango</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.9</span>
+                      <span class="price">Rs.180.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1750,12 +1750,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/onion-sap.webp" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Onion Saplings</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.7</span>
+                      <span class="price">Rs.100.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1777,40 +1777,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoes.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/Sensational_Lavender_sap.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
+                      <h3>Lavender (Lavandula Angustifolia)</h3>
                       <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
-                      <div class="d-flex align-items-center justify-content-between">
-                        <div class="input-group product-qty">
-                            <span class="input-group-btn">
-                                <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus">
-                                  <svg width="16" height="16"><use xlinkHref="#minus"></use></svg>
-                                </button>
-                            </span>
-                            <input type="text" name="quantity" class="form-control input-number quantity" value="1" />
-                            <span class="input-group-btn">
-                                <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus">
-                                    <svg width="16" height="16"><use xlinkHref="#plus"></use></svg>
-                                </button>
-                            </span>
-                        </div>
-                        <a href="#" class="nav-link">Add to Cart <svg width="18" height="18"><use xlinkHref="#cart"></use></svg></a>
-                      </div>
-                    </div>
-
-                    <div class="product-item swiper-slide">
-                      <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
-                      <figure>
-                        <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-tomatoketchup.png" alt="Product Thumbnail" class="tab-image" />
-                        </a>
-                      </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <span class="price">Rs.250.00</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1833,12 +1805,12 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/coriander-saps.webp" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Coriander-Saplings</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.7</span>
+                      <span class="price">Rs.110</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
@@ -1861,12 +1833,40 @@ Farmers, gardeners, plant lovers! Dig into our Seed & Plant Sale!  Seeds, establ
                       <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
                       <figure>
                         <a href="#" title="Product Title">
-                          <img src="assets/images/thumb-bananas.png" alt="Product Thumbnail" class="tab-image" />
+                          <img src="assets/images/spinach-seeds-in-my-hand.jpg" alt="Product Thumbnail" class="tab-image" />
                         </a>
                       </figure>
-                      <h3>Sunstar Fresh Melon Juice</h3>
-                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.5</span>
-                      <span class="price">$18.00</span>
+                      <h3>Spinach Seeds</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.8</span>
+                      <span class="price">Rs.200</span>
+                      <div class="d-flex align-items-center justify-content-between">
+                        <div class="input-group product-qty">
+                            <span class="input-group-btn">
+                                <button type="button" class="quantity-left-minus btn btn-danger btn-number" data-type="minus">
+                                  <svg width="16" height="16"><use xlinkHref="#minus"></use></svg>
+                                </button>
+                            </span>
+                            <input type="text" name="quantity" class="form-control input-number quantity" value="1" />
+                            <span class="input-group-btn">
+                                <button type="button" class="quantity-right-plus btn btn-success btn-number" data-type="plus">
+                                    <svg width="16" height="16"><use xlinkHref="#plus"></use></svg>
+                                </button>
+                            </span>
+                        </div>
+                        <a href="#" class="nav-link">Add to Cart <svg width="18" height="18"><use xlinkHref="#cart"></use></svg></a>
+                      </div>
+                    </div>
+
+                    <div class="product-item swiper-slide">
+                      <a href="#" class="btn-wishlist"><svg width="24" height="24"><use xlinkHref="#heart"></use></svg></a>
+                      <figure>
+                        <a href="#" title="Product Title">
+                          <img src="assets/images/rice.png" alt="Product Thumbnail" class="tab-image" />
+                        </a>
+                      </figure>
+                      <h3>Rice Seeds</h3>
+                      <span class="qty">1 Unit</span><span class="rating"><svg width="24" height="24" class="text-primary"><use xlinkHref="#star-solid"></use></svg> 4.6</span>
+                      <span class="price">Rs.150</span>
                       <div class="d-flex align-items-center justify-content-between">
                         <div class="input-group product-qty">
                             <span class="input-group-btn">
