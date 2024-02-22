@@ -129,7 +129,7 @@ class Home extends React.Component {
               <div class="col-sm-4 col-lg-3 text-center text-sm-start">
                 <div class="main-logo">
                   <a href="#">
-                    <img src="assets/images/logo_2.png" alt="logo" class="img-fluid" />
+                    <img src="assets/images/logo_4.png" alt="logo" class="img-fluid" />
                   </a>
                 </div>
               </div>
