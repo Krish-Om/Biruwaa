@@ -288,14 +288,14 @@ class Home extends React.Component {
                         <div class="swiper-slide">
                           <div class="row banner-content p-5">
                             <div class="content-wrapper col-md-7"><img src="assets/images/rice_2.png" alt="Product Thumbnail" class="img-fluid" />
-                              
+                               
                             </div>
                             <div class="img-wrapper col-md-5">
                               <div class="categories my-3">100% Natural</div>
                               <h3 class="display-4">Natural</h3>
                               <p>Fresh, healthy rice seeds. Available!!!</p>
                               <a href="#" class="btn btn-outline-dark btn-lg text-uppercase fs-6 rounded-1 px-4 py-3 mt-3">Shop Now</a>
-                              <div class="content-wrapper col-md-7"><img src="assets/images/rice_3.png" alt="Product Thumbnail" class="img-fluid" />
+                              <div><img src="assets/images/rice_3.png" alt="Product Thumbnail" class="img-fluid"  />
                               </div>
                             </div>
                           </div>
@@ -1146,7 +1146,7 @@ class Home extends React.Component {
             <div class="row">
               
               <div class="col-md-6">
-                <div class="banner-ad bg-danger mb-3" style={{background: "url('assets/images/ad-image-3.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
+                <div class="banner-ad bg-danger mb-3" style={{background: "url('assets/images/mango.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
                   <div class="banner-content p-5">
 
                     <div class="categories text-primary fs-3 fw-bold">Upto 25% Off</div>
