@@ -129,7 +129,7 @@ class Home extends React.Component {
               <div class="col-sm-4 col-lg-3 text-center text-sm-start">
                 <div class="main-logo">
                   <a href="#">
-                    <img src="assets/images/logo.png" alt="logo" class="img-fluid" />
+                    <img src="assets/images/logo_4.png" alt="logo" class="img-fluid" />
                   </a>
                 </div>
               </div>
@@ -187,7 +187,7 @@ class Home extends React.Component {
                 <div class="cart text-end d-none d-lg-block dropdown">
                   <button class="border-0 bg-transparent d-flex flex-column gap-2 lh-1" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasCart" aria-controls="offcanvasCart">
                     <span class="fs-6 text-muted dropdown-toggle">Your Cart</span>
-                    <span class="cart-total fs-5 fw-bold">$1290.00</span>
+                    <span class="cart-total fs-5 fw-bold">Rs.1500.00</span>
                   </button>
                 </div>
               </div>
@@ -266,9 +266,9 @@ class Home extends React.Component {
 
                 </nav>
                 <div class="d-none d-lg-block">
-                  <a href="https://therichpost.com" target="_blank" class="nav-link btn-coupon-code">
+                  <a href="https://github.com/Krish-Om/Biruwaa" target="_blank" class="nav-link btn-coupon-code">
                     <img src="assets/images/gift.svg" alt="gift icon" />
-                    <strong class="ms-2 text-dark">Get PRO Version</strong>
+                    <strong class="ms-2 text-dark"> JOIN OUR PARTNER PROGRAM</strong>
                   </a>
                 </div>
               </div>
@@ -298,7 +298,8 @@ class Home extends React.Component {
                               <h3 class="display-4">Natural</h3>
                               <p>Fresh, healthy rice seeds. Available!!!</p>
                               <a href="#" class="btn btn-outline-dark btn-lg text-uppercase fs-6 rounded-1 px-4 py-3 mt-3">Shop Now</a>
-                             
+                              <div class="content-wrapper col-md-7"><img src="assets/images/rice_3.png" alt="Product Thumbnail" class="img-fluid" />
+                              </div>
                             </div>
                           </div>
                         </div>
