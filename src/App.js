@@ -335,7 +335,7 @@ class Home extends React.Component {
                     </div>
                   </div>
                   
-                  <div class="banner-ad bg-success-subtle block-2" style={{background:"url('assets/images/ad-image-1.png') no-repeat",backgroundPosition: "right bottom"}}>
+                  <div class="banner-ad bg-success-subtle block-2" style={{background:"url('assets/images/mango.png') no-repeat",backgroundPosition: "right bottom"}}>
                     <div class="row banner-content p-5">
 
                       <div class="content-wrapper col-md-7">
@@ -347,7 +347,7 @@ class Home extends React.Component {
                     </div>
                   </div>
 
-                  <div class="banner-ad bg-danger block-3" style={{background:"url('assets/images/ad-image-2.png') no-repeat",backgroundPosition: "right bottom"}}>
+                  <div class="banner-ad bg-danger block-3" style={{background:"url('assets/images/mango.png') no-repeat",backgroundPosition: "right bottom"}}>
                     <div class="row banner-content p-5">
 
                       <div class="content-wrapper col-md-7">
@@ -1159,7 +1159,7 @@ class Home extends React.Component {
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="banner-ad bg-info" style={{background: "url('assets/images/ad-image-4.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
+                <div class="banner-ad bg-info" style={{background: "url('assets/images/mango.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
                   <div class="banner-content p-5">
 
                     <div class="categories text-primary fs-3 fw-bold">Upto 25% Off</div>
