@@ -324,7 +324,7 @@ class Home extends React.Component {
                               <a href="#" class="btn btn-outline-dark btn-lg text-uppercase fs-6 rounded-1">Shop Collection</a>
                             </div>
                             <div class="img-wrapper col-md-5">
-                              <img src="assets/images/product-thumb-2.png" alt="Product Thumbnail" class="img-fluid" />
+                              <img src="assets/images/ad-image.png" alt="Product Thumbnail" class="img-fluid" />
                             </div>
                           </div>
                         </div>
@@ -335,7 +335,7 @@ class Home extends React.Component {
                     </div>
                   </div>
                   
-                  <div class="banner-ad bg-success-subtle block-2" style={{background:"url('assets/images/ad-image-1.png') no-repeat",backgroundPosition: "right bottom"}}>
+                  <div class="banner-ad bg-success-subtle block-2" style={{background:"url('assets/images/ad-image.png') no-repeat",}}>
                     <div class="row banner-content p-5">
 
                       <div class="content-wrapper col-md-7">
@@ -347,7 +347,7 @@ class Home extends React.Component {
                     </div>
                   </div>
 
-                  <div class="banner-ad bg-danger block-3" style={{background:"url('assets/images/ad-image-2.png') no-repeat",backgroundPosition: "right bottom"}}>
+                  <div class="banner-ad bg-danger block-3" style={{background:"url('assets/images/mango.png') no-repeat",backgroundPosition: "right bottom"}}>
                     <div class="row banner-content p-5">
 
                       <div class="content-wrapper col-md-7">
@@ -1146,7 +1146,7 @@ class Home extends React.Component {
             <div class="row">
               
               <div class="col-md-6">
-                <div class="banner-ad bg-danger mb-3" style={{background: "url('assets/images/mango.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
+                <div class="banner-ad " style={{background: "url('assets/images/mango.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
                   <div class="banner-content p-5">
 
                     <div class="categories text-primary fs-3 fw-bold">Upto 25% Off</div>
@@ -1159,7 +1159,7 @@ class Home extends React.Component {
                 </div>
               </div>
               <div class="col-md-6">
-                <div class="banner-ad bg-info" style={{background: "url('assets/images/ad-image-4.png')",backgroundRepeat: "no-repeat",backgroundPosition: "right bottom"}}>
+                <div class="banner-ad " style={{background: "url('assets/images/ad-image_1.png')",backgroundRepeat: "no-repeat",backgroundPosition: "left bottom"}}>
                   <div class="banner-content p-5">
 
                     <div class="categories text-primary fs-3 fw-bold">Upto 25% Off</div>
